@@ -7,3 +7,13 @@
   font-size: 25px;
   color: red;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 100px);
+    grid-template-rows: 100px 200px 100px;
+}
+
+#a {
+    
+}
